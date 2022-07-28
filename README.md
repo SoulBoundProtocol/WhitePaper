@@ -1,4 +1,4 @@
-# Mini-WhitePaper for SoulBound Protocol v0
+# Draft: Mini-WhitePaper for SoulBound Protocol
 
 - [中文版本](https://github.com/SoulBoundxyz/WhitePaper/blob/main/miniWhitePaper-cn.md) 
 

@@ -1,11 +1,6 @@
-# Mini-WhitePaper for SoulBound Protocol
+# Mini-WhitePaper for SoulBound Protocol v0
 
-- [中文版本](https://github.com/SoulBoundxyz/WhitePaper/blob/main/miniWhitePaper-cn.md)
-
-Soulbound Protocol Mini White Paper v0
-
-0xAA, David
- 
+- [中文版本](https://github.com/SoulBoundxyz/WhitePaper/blob/main/miniWhitePaper-cn.md) 
 
 ## Introduction
 
